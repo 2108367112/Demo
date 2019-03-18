@@ -1,0 +1,139 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "58,103,157",
+                        "endColumns": "43,52,50",
+                        "endOffsets": "97,151,203"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "95,139,192",
+                        "endColumns": "43,52,50",
+                        "endOffsets": "134,187,238"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "7,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "314,605",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "600,760"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\src\\main\\res\\values\\style.xml",
+                    "from": {
+                        "startLines": "43,53,10,37,30,23,17,67,79,63,3,71",
+                        "startColumns": "4,4,4,4,4,4,4,4,5,4,4,3",
+                        "startOffsets": "1761,2237,345,1529,1214,903,651,2852,3356,2713,59,3020",
+                        "endLines": "51,61,15,41,35,28,21,69,83,65,8,77",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "2229,2705,643,1753,1521,1206,895,3013,3601,2844,337,3347"
+                    },
+                    "to": {
+                        "startLines": "17,26,35,41,46,52,58,63,66,71,74,80",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "765,1230,1695,1993,2218,2525,2828,3073,3237,3483,3617,3895",
+                        "endLines": "25,34,40,45,51,57,62,65,70,73,79,86",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "1225,1690,1988,2213,2520,2823,3068,3232,3478,3612,3890,4216"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "39",
+                        "endOffsets": "90"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\src\\main\\res\\values\\config.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "70",
+                        "endOffsets": "122"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "243",
+                        "endColumns": "70",
+                        "endOffsets": "309"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\Desktop\\Demo\\mobilesafe\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}
