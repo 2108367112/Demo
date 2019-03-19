@@ -6,8 +6,9 @@
     android:layout_height="match_parent"
     tools:context=".activity.LoginActivity">
 
-    <fragment
-        android:id="@+id/fragment"
+    <TextView
+        android:id="@+id/tv"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"
+        android:text="登录" />
 </LinearLayout>

@@ -1,2 +1,8 @@
 .gradle
 local.properties
+.idea/
+app/app.iml
+proj01bilibili/proj01bilibili.iml
+mobilesafe/mobilesafe.iml
+mobilesafe/build/*
+proj01bilibili/build/*
